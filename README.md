@@ -13,6 +13,6 @@ This is a M4L device that passes in Live automation data into ADSR-JXS and ADSR-
 	20201212 v0.043 - made generic, underscores, layer, reloadBang
 	20201218 v0.05 - made colorPicker inactive
 	
-## TODO
+## Issue Log
 
-1. Look into turning this into a MIDI device instead of an Audio device.
+[Issue Log](https://docs.google.com/spreadsheets/d/1zsDH-BvhwENo8CKwWO2RhLVwaYivwh7z1DA6AXC1FMQ/edit#gid=0)
